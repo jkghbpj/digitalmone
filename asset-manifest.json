@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df5a8921.css",
+    "main.js": "/static/js/main.5eddcd35.js",
+    "static/js/453.b4627c78.chunk.js": "/static/js/453.b4627c78.chunk.js",
+    "static/media/seguridad-digital.png": "/static/media/seguridad-digital.f589648804e8976f475b.png",
+    "static/media/Raleway-Light.ttf": "/static/media/Raleway-Light.f25e9b3a1fc8e48e53f5.ttf",
+    "static/media/Raleway-Medium.ttf": "/static/media/Raleway-Medium.1af9f1e9f3fd4766df83.ttf",
+    "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
+    "static/media/error.png": "/static/media/error.c7893b9982649c3a1bec.png",
+    "static/media/mail.png": "/static/media/mail.f2e000b80d067eb62dd0.png",
+    "static/media/flags.png": "/static/media/flags.8a3aff7d41c4c8ee9412.png",
+    "static/media/sprite.png": "/static/media/sprite.23cedae3e07257a4ad0d.png",
+    "static/media/mail3.png": "/static/media/mail3.1f596c45a7918de3f591.png",
+    "static/media/logo.png": "/static/media/logo.e3bc20fa0b0242601be9.png",
+    "static/media/amipci.png": "/static/media/amipci.f85b79a70802ab3d0024.png",
+    "index.html": "/index.html",
+    "main.df5a8921.css.map": "/static/css/main.df5a8921.css.map",
+    "main.5eddcd35.js.map": "/static/js/main.5eddcd35.js.map",
+    "453.b4627c78.chunk.js.map": "/static/js/453.b4627c78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df5a8921.css",
+    "static/js/main.5eddcd35.js"
+  ]
+}
